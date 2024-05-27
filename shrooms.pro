@@ -199,7 +199,6 @@ HEADERS += src/qt/bitcoingui.h \
     src/crypto/sha512.h \
     src/crypto/hmac_sha256.h \
     src/crypto/ripemd160.h \
-    src/strlcpy.h \
     src/main.h \
     src/miner.h \
     src/net.h \
